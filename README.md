@@ -17,7 +17,5 @@ Use stacked bar to visualize the contradiction.
 It was observed that shipping method and Order Delay were the two biggest factors in determining whether a package would be delayed.
 
 1.It is recommended that a program implemented to minimize the amount of time from when the order was placed to the time it was shipped. Further operational studies may be needed to determine the best method to minimize Order Delay.
-
 2. Since shipping method also played a large role in determining whether a package would be late, a cost/benefit analysis of either a subscription-based model or a customer loyalty program that prioritizes subscribers or loyal customer shipments.
-
-3. Further effor will be needed to build up a prediction model, which will help monitor the order status in time. If the model predicts that a package will be late, then the risk could be mitigated by either expediting the shipment or by setting the shipment method to First Class or same day. If a late delivery is unpreventable, the marketing team could employ a customer loyalty discount program such that the customer received a discount on their next purchase.
+3.  Further effor will be needed to build up a prediction model, which will help monitor the order status in time. If the model predicts that a package will be late, then the risk could be mitigated by either expediting the shipment or by setting the shipment method to First Class or same day. If a late delivery is unpreventable, the marketing team could employ a customer loyalty discount program such that the customer received a discount on their next purchase.
