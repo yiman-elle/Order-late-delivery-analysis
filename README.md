@@ -1,4 +1,5 @@
 # Order-late-delivery-analysis
+
 Afer data exploration, it is observed that lots of shipments suffer from late delivery risk, hereby make some hypothesis, and use data to test against.
 
 **Hypothesis:**
@@ -12,6 +13,7 @@ Afer data exploration, it is observed that lots of shipments suffer from late de
 Use stacked bar to visualize the contradiction.
 
 **Conclusion and Recommendation:**
+
 It was observed that shipping method and Order Delay were the two biggest factors in determining whether a package would be delayed.
 
 1.It is recommended that a program implemented to minimize the amount of time from when the order was placed to the time it was shipped. Further operational studies may be needed to determine the best method to minimize Order Delay.
